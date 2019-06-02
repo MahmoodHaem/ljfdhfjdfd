@@ -1,7 +1,7 @@
-?token=NTQzODU1MDU0Nzc2NTY1NzYw.XOs-6g.tTDxUjFJ2ay2t-FOaLOpgdmXVdc
-owner=294075671020568578
-prefix=8
+?token=NTY1NTg5MTAxMDQ3MzE2NDkx.XPQjAQ.p-T31oVPVwPiKJYI_6zuumNy1JA
+owner=526385469903077376
+prefix=1
 game=.?.?.
 stayinchannel=true
 songinstatus=false
-token=NTY1NTg5MTAxMDQ3MzE2NDkx.XPQf2Q.xdz-DxB4gHZghyYEQvhSbupxagE
+token=NTY1NTg5MTAxMDQ3MzE2NDkx.XPQjAQ.p-T31oVPVwPiKJYI_6zuumNy1JA
